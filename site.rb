@@ -16,5 +16,5 @@ get '/chinese' do
   "Ni hao!"
 end
 get '/read_more' do
-  "More about me..."
+  erb :read_more
 end
