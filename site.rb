@@ -14,3 +14,6 @@ end
 get '/chinese' do
   "Ni hao!"
 end
+get '/read_more' do
+  "More about me..."
+end
